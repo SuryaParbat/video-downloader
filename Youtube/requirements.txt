@@ -54,5 +54,6 @@ toml==0.10.2
 typing-extensions==3.7.4.3
 urllib3==1.25.8
 w3lib==1.21.0
+whitenoise==5.2.0
 wrapt==1.12.1
 zope.interface==4.7.1
